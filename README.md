@@ -8,6 +8,12 @@ Aqui vou colocar um pouco sobre mim.
 Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="40" height="40"/>
+<img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="40" height="40"/>
+<img loading="lazy" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" width="40" height="40"/>
+<img loading="lazy" src="https://logowik.com/content/uploads/images/media-assembly7210.jpg" width="40" height="40"/>
+
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarlonMoser&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=01C231&text_color=f6f5f4&bg_color=0d1117" alt="Marlon Alfredo Moser github stats" /> 
