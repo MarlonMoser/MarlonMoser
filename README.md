@@ -6,7 +6,7 @@
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome!;My+name+is+Marlon+Alfredo+Moser.;I'm+a+JAVA+student." alt="Typing SVG" /></a>
 </div>
-<b>Estou aprendendo</b><meta charset="1F913"><br>
+<b>Estou aprendendo</b> &#129299 <br>
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" width="40" height="40"/>
