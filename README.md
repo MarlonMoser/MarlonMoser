@@ -1,5 +1,5 @@
 # SobreMim
-<b>Aqui vou colocar um pouco sobre mim.<b><meta charset="1F638"><br>
+<b>Aqui vou colocar um pouco sobre mim.<b>&#128512<br>
 
 
 <div align = "center">
