@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 # SobreMim
 <b>Aqui vou colocar um pouco sobre mim.<b>&#128512<br>
 
