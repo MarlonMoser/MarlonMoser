@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 # SobreMim
-<b>Aqui vou colocar um pouco sobre mim.<b>&#128512<br>
+<b>Um estudante de programação buscando sua vaga no mercado de TI, possuo maior conhecimento em java, estou estudando o framework Angular e Spring com ideia crar aplicações WEB<b>&#128512<br>
 
 
 <div align = "center">
